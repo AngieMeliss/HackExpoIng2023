@@ -55,4 +55,6 @@ Due to the marked distribution of the data, a Gaussian mixture model (GMM) was c
 
 *  **Model evaluation metrics**
 
+  The evaluation metric to measure the performance of the model was precision, where a result of 1 was obtained, so that there was a perfect fit of the model with the data that was not used for training.
+  However, it is also possible to perform other metrics such as Recall, F1-score, Specificity, Absolute error, squared error and mean error.
   
